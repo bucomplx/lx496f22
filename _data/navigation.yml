@@ -1,7 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Schedule"
+    url: /schedule/
+  - title: "Course Information"
+    url: /about/
+  - title: "Readings"
+    url: /readings/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +14,12 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+extranav:
+  - title: Resources
+    children:
+      - title: "NLTK"
+        url: http://nltk.org/
+#  - title: Homework
+#    children:
+#      - title: "1-Haiku"
+#        url: /assets/ipynb/hw00.ipynb
