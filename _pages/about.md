@@ -7,7 +7,7 @@ author_profile: true
 
 **Computational Linguistics, Fall 2022**
 
-**(CAS LX 496, GRS LX 796, MET LX 596)**
+**(CAS LX 496, GRS LX 796)**
 
 <table>
 <tr>
