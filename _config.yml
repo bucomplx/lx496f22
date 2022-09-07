@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "CAS LX 496<br>GRS LX 796<br>MET 596<br>Fall 2022"
+  name             : "CAS LX 496<br>GRS LX 796<br>Fall 2022"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computational Linguistics"
   location         : "Boston University"

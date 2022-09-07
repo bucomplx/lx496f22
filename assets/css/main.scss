@@ -18,6 +18,26 @@ table td {
 }
 @charset "utf-8";
 
+td.schedodd {
+	color: #000;
+	background-color: #ffffcc;
+}
+
+td.schedeven {
+	color: #000;
+	background-color: #ddddaa;
+}
+
+td.schednote {
+	color: #111;
+	background-color: #fcf;
+}
+
+td.schedrevnote {
+	color: #ffc;
+	background-color: #aa6666;
+}
+
 // for some reason I needed to put this in manually.
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

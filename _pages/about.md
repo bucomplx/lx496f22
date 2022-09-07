@@ -15,7 +15,7 @@ author_profile: true
 <td colspan="1">T 3:30 - 6:15 (meets in EPIC 205)</td>
 </tr>
 <tr>
-<td style="text-align:right;background-color: #dddddd">Instructors</td>
+<td style="text-align:right;background-color: #dddddd">Instructor</td>
 <td>Paul Hagstrom</td>
 </tr>
 <tr>
@@ -24,8 +24,7 @@ author_profile: true
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Office Location</td>
-<td>621 Comm. Ave.<br />Rm. 105</td>
-</td>
+<td>621 Comm. Ave.<br>Rm. 105</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Office Hours</td>
@@ -63,7 +62,7 @@ investigate, a method for studying it, and a written paper reporting the results
 
 ## Instructional Format ##
 
-The course meets once a week on Tuesdays; the class meetings will be a mixture of introduction of the
+The course meets MWF; the class meetings will be a mixture of introduction of the
 week's concepts and ungraded exercises and readings. Weekly homework will be assigned.
 
 ## Course materials ##
@@ -75,13 +74,13 @@ Other readings or lecture notes may be assigned from time to time.
 ## Course web site ##
 
 The primary web site for the course is at
-<https://bucomplx.github.io/lx496s20/> -- this is
+<https://bucomplx.github.io/lx496f22/> -- this is
 where the current schedule, handouts, readings, assignments, and announcements will be posted.
 
 ## Grading and Discussion ##
 
-We will use Piazza for class discussion and questions, and Gradescope for homework submission and grading.
-You will receive an email with details about creating an account and logging on.
+We will use Teams for class discussion and questions, and Gradescope for homework submission and grading.
+You will get details on how to join the Team, and Gradescope should be linked from Blackboard.
 
 ## Assignments and grading criteria ##
 This course can be taken either at the undergraduate or graduate level.
@@ -97,55 +96,50 @@ others involve multi-step projects building from a question to an analysis and a
 In the final evaluation, the lowest-scoring homework assignment will be dropped from the computation.
 Homework will generally be weekly for the first two thirds of the course; in the latter third the
 final project will occupy this time. The second category is class participation, which accounts for
-15% of the course grade. Participation includes attendance,
+10% of the course grade. Participation includes attendance,
 being prepared to provide answers to exercises in discussion, and general engagement.
-The third category is the midterm exam
-(the same exam for graduate students and undergraduate students),
-which will largely be a test of facility with Python and with the natural language framework,
-will take place at about the middle of the semester, and account for 15% of the course grade.
 The final category is the final project,
-which accounts for 20% (undergraduate) or 30% (graduate) of the grade overall.
-Students taking the undergraduate course will have a project topic outlined for them to work with,
+which accounts for 40% of the grade overall.
+Students taking the undergraduate course will be presented with a project topic or a set of topics to
+choose from (or may propose one of their own),
 while students taking the graduate course will be responsible for finding and proposing a suitable topic.
-A progress report in the form of a written methodology section will be due prior to the finished project.
+The final project has four components.  The proposal,
+the methodology (informally describing the plan of how it will be completed and the current status),
+the presentation, and the final paper.
+The presentations will be part of a brief "mini-conference" at the end of the semester.
+Undergraduate presentations are limited to 10 minutes, graduate presentations to 15 minutes.
 The finished project will take the form a research paper,
 10 pages (undergraduate) to 20 pages (graduate) in length.
+There is neither a midterm exam nor a final exam.
 
 <table>
 <tr>
 <td></td>
-<td style="text-align:right;background-color: #dddddd">Undergraduate (LX 496)</td>
-<td style="text-align:right;background-color: #dddddd">Graduate (LX 796)</td>
+<td style="text-align:right;background-color: #dddddd">Percentage</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Homework</td>
 <td>50%</td>
-<td>40%</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Participation</td>
-<td>15%</td>
-<td>15%</td>
-</tr>
-<tr>
-<td style="text-align:right;background-color: #dddddd">Midterm</td>
-<td>15%</td>
-<td>15%</td>
+<td>10%</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Final project: Proposal</td>
-<td>--</td>
 <td>10%</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Final project: Methodology</td>
 <td>10%</td>
-<td>5%</td>
+</tr>
+<tr>
+<td style="text-align:right;background-color: #dddddd">Final project: Presentation</td>
+<td>10%</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Final project: Final paper</td>
 <td>10%</td>
-<td>15%</td>
 </tr>
 </table>
 

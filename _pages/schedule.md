@@ -29,24 +29,20 @@ to the midterm and final assignments, BUCLD, Fall Recess.
 </tr>
 <tr>
 <td colspan="1" class="schednote">&mdash;</td>
-<td colspan="1" class="schedeven">7</td>
+<td colspan="1" >7</td>
 <td colspan="1" class="schedodd">9</td>
 <td>Introduction</td>
 <td rowspan="1" markdown="1">
-Handout
+
 </td>
-<td rowspan="1" markdown="1" class="schedeven">
-Due 9/9:
-HW 0
-</td>
-</tr>
+<td style="background-color: #ddd"></td></tr>
 <tr>
 <td colspan="1" class="schedodd">12</td>
 <td colspan="1" class="schedodd">14</td>
 <td colspan="1" class="schedeven">16</td>
-<td>Grammars and parsing</td>
+<td>Corpora and generation</td>
 <td rowspan="1" markdown="1">
-NLTK 8
+NLTK 2
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
 Due 9/16:
@@ -57,9 +53,9 @@ Haiku
 <td colspan="1" class="schedeven">19</td>
 <td colspan="1" class="schedeven">21</td>
 <td colspan="1" class="schedodd">23</td>
-<td>Analyzing semantics</td>
+<td>Grammars and parsing</td>
 <td rowspan="1" markdown="1">
-NLTK 9-10
+NLTK 8
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
 Due 9/23:
@@ -70,9 +66,9 @@ Trees
 <td colspan="1" class="schedodd">26</td>
 <td colspan="1" class="schedodd">28</td>
 <td colspan="1" class="schedeven">30</td>
-<td>Dialog systems</td>
+<td>Analyzing semantics</td>
 <td rowspan="1" markdown="1">
-Handout
+NLTK 9-10
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
 Due 9/30:
@@ -83,22 +79,22 @@ Semantic parsing
 <td colspan="1" class="schedeven">10/3</td>
 <td colspan="1" class="schedeven">5</td>
 <td colspan="1" class="schedodd">7</td>
-<td>Characterizing texts, generating corpora</td>
+<td>Dialog systems</td>
 <td rowspan="1" markdown="1">
-Handout
+
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
 Due 10/7:
-Authorship
+SHRDLU
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedrevnote">11</td>
 <td colspan="1" class="schedodd">12</td>
 <td colspan="1" class="schedeven">14</td>
-<td>Tagging text, classification, acquisition</td>
+<td>Tagging and classification</td>
 <td rowspan="1" markdown="1">
-Handout
+NLTK 5-6
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
 Due 10/14:
@@ -108,67 +104,70 @@ Classification
 <tr>
 <td colspan="1" class="schedeven">17</td>
 <td colspan="1" class="schedeven">19</td>
-<td colspan="1">21</td>
+<td colspan="1" class="schedodd">21</td>
 <td>
-TBA
+Characterizing texts, generating corpora
 </td>
 <td rowspan="1" markdown="1">
-Handout
+
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
 Due 10/21:
-HW 6
+Authorship
 </td>
 </tr>
 <tr>
-<td colspan="1" >24</td>
-<td colspan="1" class="schedrevnote">26</td>
-<td colspan="1" class="schedodd">28</td>
+<td colspan="1" class="schedodd">24</td>
+<td colspan="1" class="schedodd">26</td>
+<td colspan="1" class="schedeven">28</td>
 <td>
-TBA
+Language acquisition
 </td>
 <td rowspan="1" markdown="1">
-Notes, Practice midterm, Handout
+
 </td>
-<td style="background-color: #ddd"></td>
+<td rowspan="1" markdown="1" class="schedodd">
+Due 10/28:
+Acquisition
+</td>
 </tr>
 <tr>
-<td colspan="1" >31</td>
+<td colspan="1" class="schedeven">31</td>
 <td colspan="1" class="schedeven">11/2</td>
-<td colspan="1" class="schedeven">4</td>
+<td colspan="1">4</td>
 <td>
 Information extraction
 </td>
 <td rowspan="1" markdown="1">
 Handout
 </td>
-<td style="background-color: #ddd"></td>
+<td rowspan="1" markdown="1" class="schedeven">
+Due 11/4:
+Information extraction
+</td>
 </tr>
 <tr>
-<td colspan="1" class="schedeven">7</td>
-<td colspan="1" class="schedodd">9</td>
+<td colspan="1">7</td>
+<td colspan="1">9</td>
 <td colspan="1" class="schednote">&mdash;</td>
 <td>Acquisition, BUCLD</td>
 <td rowspan="1" markdown="1">
-Handout
+
 </td>
-<td rowspan="1" markdown="1" class="schedeven">
+<td rowspan="1" markdown="1" class="schednote">
 Due 11/9:
-HW 7
+Topic proposal
 </td>
 </tr>
 <tr>
-<td colspan="1" class="schedodd">14</td>
-<td colspan="1" class="schedodd">16</td>
+<td colspan="1">14</td>
+<td colspan="1">16</td>
 <td colspan="1">18</td>
 <td>Visualization</td>
 <td rowspan="1" markdown="1">
-Handout
+
 </td>
-<td rowspan="1" markdown="1" class="schedodd">
-Due 11/18:
-HW 8
-</td>
+<td style="background-color: #ddd"></td>
 </tr>
 <tr>
 <td colspan="1">21</td>
@@ -176,44 +175,45 @@ HW 8
 <td colspan="1" class="schednote">&mdash;</td>
 <td>Creating a public interface</td>
 <td rowspan="1" markdown="1">
-Handout
+
+</td>
+<td rowspan="1" markdown="1" class="schednote">
+Due 11/21:
+Methodology
+</td>
+
+</tr>
+<tr>
+<td colspan="1">28</td>
+<td colspan="1">30</td>
+<td colspan="1">12/2</td>
+<td>Presentations</td>
+<td rowspan="1" markdown="1">
+
 </td>
 <td style="background-color: #ddd"></td>
 </tr>
 <tr>
-<td colspan="1" class="schedeven">28</td>
-<td colspan="1" class="schedeven">30</td>
-<td colspan="1" class="schedeven">12/2</td>
-<td>TBA</td>
+<td colspan="1">5</td>
+<td colspan="1">7</td>
+<td colspan="1">9</td>
+<td>Presentations</td>
 <td rowspan="1" markdown="1">
-Handout
+
 </td>
 <td style="background-color: #ddd"></td>
-</tr>
-<tr>
-<td colspan="1" class="schedodd">5</td>
-<td colspan="1" class="schedodd">7</td>
-<td colspan="1" class="schedodd">9</td>
-<td>TBA</td>
-<td rowspan="1" markdown="1">
-Handout
-</td>
-<td rowspan="1" markdown="1" class="schedeven">
-Due 12/5:
-HW 9
-</td>
 </tr>
 <tr>
 <td>12</td>
 <td colspan="1" class="schednote">&mdash;</td>
 <td colspan="1" class="schednote">&mdash;</td>
-<td>TBA</td>
+<td>Recap and Outlook</td>
 <td rowspan="1" markdown="1">
-Notes, Practice final
+
 </td>
-<td rowspan="1" markdown="1" class="schedodd">
-Due 12/10:
-HW 10
+<td rowspan="1" markdown="1" class="schednote">
+Due 12/12:
+Final project
 </td>
 </tr>
 </table>
