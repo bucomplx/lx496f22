@@ -12,7 +12,7 @@ author_profile: true
 <table>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Meeting time</td>
-<td colspan="1">T 3:30 - 6:15 (meets in EPIC 205)</td>
+<td colspan="1">MWF 2:30 - 3:20 (meets in CAS 213)</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Instructor</td>
@@ -24,13 +24,13 @@ author_profile: true
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Office Location</td>
-<td>621 Comm. Ave.<br>Rm. 105</td>
-</tr>
-<tr>
-<td style="text-align:right;background-color: #dddddd">Office Hours</td>
 <td>My desk: 621 Commonwealth Ave., Rm. 105<br>
 Meetings via: <a href="https://bostonu.zoom.us/j/95838533505?pwd=Rm1WNitSdHIrZjZwbW03bnNrVjBCQT09">Zoom</a>
 </td>
+</tr>
+<tr>
+<td style="text-align:right;background-color: #dddddd">Office Hours</td>
+<td>MTF 3:30-4:30 (and by appointment)</td>
 </tr>
 </table>
 
