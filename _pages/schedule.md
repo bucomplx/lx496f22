@@ -46,59 +46,59 @@ NLTK 2
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
 Due 9/16:
-Haiku
+[HW1: Haiku]({{ site.baseurl }}{% post_url 2022-09-12-hw1 %})
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedeven">19</td>
 <td colspan="1" class="schedeven">21</td>
 <td colspan="1" class="schedodd">23</td>
-<td>Grammars and parsing</td>
+<td>Classification</td>
 <td rowspan="1" markdown="1">
-NLTK 8
+NLTK 5-6
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
 Due 9/23:
-Trees
+[HW2: Classification]({{ site.baseurl }}{% post_url 2022-09-18-hw2 %})
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedodd">26</td>
 <td colspan="1" class="schedodd">28</td>
 <td colspan="1" class="schedeven">30</td>
-<td>Analyzing semantics</td>
+<td>Grammars and parsing</td>
 <td rowspan="1" markdown="1">
-NLTK 9-10
+NLTK 8
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
 Due 9/30:
-Semantic parsing
+Trees
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedeven">10/3</td>
 <td colspan="1" class="schedeven">5</td>
 <td colspan="1" class="schedodd">7</td>
-<td>Dialog systems</td>
+<td>Analyzing semantics</td>
 <td rowspan="1" markdown="1">
 
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
 Due 10/7:
-SHRDLU
+Semantic parsing
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedrevnote">11</td>
 <td colspan="1" class="schedodd">12</td>
 <td colspan="1" class="schedeven">14</td>
-<td>Tagging and classification</td>
+<td>Dialog systems</td>
 <td rowspan="1" markdown="1">
-NLTK 5-6
+NLTK 9-10
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
 Due 10/14:
-Classification
+SHRDLU
 </td>
 </tr>
 <tr>
