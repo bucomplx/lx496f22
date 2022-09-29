@@ -72,7 +72,7 @@ NLTK 8
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
 Due 10/3:
-Trees
+[HW3: Trees]({{ site.baseurl }}{% post_url 2022-09-29-hw3 %})
 </td>
 </tr>
 <tr>
