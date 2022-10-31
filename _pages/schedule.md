@@ -13,8 +13,8 @@ This is the current view of how the semester will proceed, but the schedule *wil
 Initially, homework will be handed out on Friday and due on Friday.
 Homework 1 is due Friday, Sep 16.
 The color coding is intended to represent the dates you have
-assignments in your hands: Homework 3 will be distributed on Sep 26,
-and be due on Oct 3.  Etc.
+assignments in your hands: Homework 4 will be distributed on Sep 30,
+and be due on Oct 7.  Etc.
 This shifts around a little based on schedule adjustments due
 to the midterm and final assignments, BUCLD, Fall Recess.
 
@@ -52,59 +52,59 @@ Due 9/16:
 <tr>
 <td colspan="1" class="schedeven">19</td>
 <td colspan="1" class="schedeven">21</td>
-<td colspan="1" class="schedeven">23</td>
+<td colspan="1" class="schedodd">23</td>
 <td>Classification</td>
 <td rowspan="1" markdown="1">
 NLTK 5-6
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
-Due 9/26:
+Due 9/23:
 [HW2: Classification]({{ site.baseurl }}{% post_url 2022-09-18-hw2 %})
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedodd">26</td>
 <td colspan="1" class="schedodd">28</td>
-<td colspan="1" class="schedodd">30</td>
+<td colspan="1" class="schedeven">30</td>
 <td>Grammars and parsing</td>
 <td rowspan="1" markdown="1">
 NLTK 8
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
-Due 10/3:
-[HW3: Trees]({{ site.baseurl }}{% post_url 2022-09-29-hw3 %})
+Due 9/30:
+Trees
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedeven">10/3</td>
 <td colspan="1" class="schedeven">5</td>
-<td colspan="1" class="schedeven">7</td>
+<td colspan="1" class="schedodd">7</td>
 <td>Analyzing semantics</td>
 <td rowspan="1" markdown="1">
 
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
-Due 10/11:
+Due 10/7:
 Semantic parsing
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedrevnote">11</td>
 <td colspan="1" class="schedodd">12</td>
-<td colspan="1" class="schedodd">14</td>
+<td colspan="1" class="schedeven">14</td>
 <td>Dialog systems</td>
 <td rowspan="1" markdown="1">
 NLTK 9-10
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
-Due 10/17:
+Due 10/14:
 SHRDLU
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedeven">17</td>
 <td colspan="1" class="schedeven">19</td>
-<td colspan="1" class="schedeven">21</td>
+<td colspan="1" class="schedodd">21</td>
 <td>
 Characterizing texts, generating corpora
 </td>
@@ -112,14 +112,14 @@ Characterizing texts, generating corpora
 
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
-Due 10/24:
+Due 10/21:
 Authorship
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedodd">24</td>
 <td colspan="1" class="schedodd">26</td>
-<td colspan="1" class="schedodd">28</td>
+<td colspan="1" class="schedeven">28</td>
 <td>
 Language acquisition
 </td>
@@ -127,30 +127,27 @@ Language acquisition
 
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
-Due 10/31:
+Due 10/28:
 Acquisition
 </td>
 </tr>
 <tr>
 <td colspan="1" class="schedeven">31</td>
 <td colspan="1" class="schedeven">11/2</td>
-<td colspan="1" class="schedeven">4</td>
-<td>
-Information extraction
-</td>
+<td colspan="1" class="schednote">&mdash;</td>
+<td>Acquisition, BUCLD</td>
 <td rowspan="1" markdown="1">
-Handout
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
-Due 11/7:
-Information extraction
 </td>
 </tr>
 <tr>
 <td colspan="1">7</td>
 <td colspan="1">9</td>
-<td colspan="1" class="schednote">&mdash;</td>
-<td>Acquisition, BUCLD</td>
+<td colspan="1">11</td>
+<td>
+Information extraction
+</td>
 <td rowspan="1" markdown="1">
 
 </td>
