@@ -152,7 +152,7 @@ Information extraction
 
 </td>
 <td rowspan="1" markdown="1" class="schednote">
-Due 11/9:
+Due 11/11:
 Topic proposal
 </td>
 </tr>
