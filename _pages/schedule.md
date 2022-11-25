@@ -39,7 +39,7 @@ to the midterm and final assignments, BUCLD, Fall Recess.
 <td colspan="1" class="schedodd">12</td>
 <td colspan="1" class="schedodd">14</td>
 <td colspan="1" class="schedodd">16</td>
-<td>Corpora and generation</td>
+<td>Corpora and classification</td>
 <td rowspan="1" markdown="1">
 NLTK 2
 </td>
@@ -52,17 +52,17 @@ Due 9/16:
 <td colspan="1" class="schedeven">19</td>
 <td colspan="1" class="schedeven">21</td>
 <td colspan="1" class="schedeven">23</td>
-<td>Classification</td>
+<td>Sentiment analysis</td>
 <td rowspan="1" markdown="1">
 NLTK 5-6
 </td>
-<td rowspan="1" markdown="1" class="schedeven">
+<td rowspan="1" markdown="1" class="">
 </td>
 </tr>
 <tr>
-<td colspan="1" class="schedodd">26</td>
-<td colspan="1" class="schedodd">28</td>
-<td colspan="1" class="schedeven">30</td>
+<td colspan="1" class="schedeven">26</td>
+<td colspan="1" class="">28</td>
+<td colspan="1" class="schedodd">30</td>
 <td>Grammars and parsing</td>
 <td rowspan="1" markdown="1">
 NLTK 8
@@ -73,14 +73,14 @@ Due 9/26:
 </td>
 </tr>
 <tr>
-<td colspan="1" class="">10/3</td>
-<td colspan="1" class="schedeven">5</td>
+<td colspan="1" class="schedodd">10/3</td>
+<td colspan="1" class="schedodd">5</td>
 <td colspan="1" class="schedeven">7</td>
-<td>Analyzing semantics</td>
+<td>Representing semantics</td>
 <td rowspan="1" markdown="1">
 
 </td>
-<td rowspan="1" markdown="1" class="schedeven">
+<td rowspan="1" markdown="1" class="schedodd">
 Due 10/5:
 [HW3: Trees]({{ site.baseurl }}{% post_url 2022-09-29-hw3 %})
 </td>
@@ -89,11 +89,11 @@ Due 10/5:
 <td colspan="1" class="schedrevnote">11</td>
 <td colspan="1" class="schedeven">12</td>
 <td colspan="1" class="schedeven">14</td>
-<td>Dialog systems</td>
+<td>Computing semantics</td>
 <td rowspan="1" markdown="1">
 NLTK 9-10
 </td>
-<td rowspan="1" markdown="1" class="schedodd">
+<td rowspan="1" markdown="1" class="schedeven">
 Due 10/14:
 HW4: Semantics
 </td>
@@ -103,7 +103,7 @@ HW4: Semantics
 <td colspan="1" class="schedodd">19</td>
 <td colspan="1" class="schedodd">21</td>
 <td>
-Characterizing texts, generating corpora
+K-means clustering
 </td>
 <td rowspan="1" markdown="1">
 
@@ -115,7 +115,7 @@ Characterizing texts, generating corpora
 <td colspan="1" class="">26</td>
 <td colspan="1" class="">28</td>
 <td>
-Language acquisition
+Clustering and networks
 </td>
 <td rowspan="1" markdown="1">
 
@@ -141,7 +141,7 @@ HW5: SHRDLU
 <td colspan="1">9</td>
 <td colspan="1">11</td>
 <td>
-Information extraction
+WordNet, summarization
 </td>
 <td rowspan="1" markdown="1">
 
@@ -230,11 +230,10 @@ Links to Colab notebooks (class meeting notes, generally):
 - [2022-10-19-federalist-kmeans-0.ipynb](https://colab.research.google.com/drive/11fwiTmCYwXaKfWhUWaegGJdpVwdfcKkq?usp=sharing)
 - [2022-10-21-federalist-kmeans-1.ipynb](https://colab.research.google.com/drive/1GSTDLUtd_rM0JrFXTRo-Lb47WL25XDF4?usp=sharing)
 - [2022-10-26-sklearn-keras-0 - zip file]({{ site.baseurl }}/assets/ipynb/2022-10-26-wed.ipynb.zip)
-- [2022-10-28-sklearn-keras-1  -zip file]({{ site.baseurl }}/assets/ipynb/2022-10-28-fri.ipynb.zip)
+- [2022-10-28-sklearn-keras-1 - zip file]({{ site.baseurl }}/assets/ipynb/2022-10-28-fri.ipynb.zip)
 - [2022-10-31-childes-nltk - zip file]({{ site.baseurl }}/assets/ipynb/2022-10-31.ipynb.zip)
 - [2022-11-07-wordnet.ipynb](https://colab.research.google.com/drive/19DVqYIIWgjCzBE0hvnabn5XT0n8yNxt5?usp=sharing)
 - [2022-11-09-text-summarization.ipynb](https://colab.research.google.com/drive/1R-RJer7JL39fJGpsApd5E4sZDPQonyWY?usp=sharing)
 - [2022-11-16-named-entities.ipynb](https://colab.research.google.com/drive/1K5hX-z5T2g6PDeCB2OTTOLKGb-KWVqcc?usp=sharing)
 - [2022-11-18-distilbert-sentiment-analysis.ipynb](https://colab.research.google.com/drive/1TgM2fnOdQ7RUnS0NN1QRDiMhIW27zk9b?usp=sharing)
 - [2022-11-21-bert-squad.ipynb](https://colab.research.google.com/drive/13MEqG3SI7YSqoiO_ZGZk8bf1Agosda0L?usp=sharing)
-- 
