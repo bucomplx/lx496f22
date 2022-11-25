@@ -20,3 +20,4 @@ can be found here:
 Other things may go here as they come up.
 Some readings may be protected by a password.
 You will have gotten this password in class.
+
