@@ -67,7 +67,7 @@ NLTK 5-6
 <td rowspan="1" markdown="1">
 NLTK 8
 </td>
-<td rowspan="1" markdown="1" class="schedodd">
+<td rowspan="1" markdown="1" class="schedeven">
 Due 9/26:
 [HW2: Classification]({{ site.baseurl }}{% post_url 2022-09-18-hw2 %})
 </td>
