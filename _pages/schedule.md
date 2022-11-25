@@ -95,7 +95,7 @@ NLTK 9-10
 </td>
 <td rowspan="1" markdown="1" class="schedeven">
 Due 10/14:
-HW4: Semantics
+[HW4: Semantics]({{ site.baseurl }}{% post_url 2022-10-05-hw4 %})
 </td>
 </tr>
 <tr>
@@ -122,7 +122,7 @@ Clustering and networks
 </td>
 <td rowspan="1" markdown="1" class="schedodd">
 Due 10/24:
-HW5: SHRDLU
+[HW5: SHRDLU]({{ site.baseurl }}{% post_url 2022-10-15-hw5 %})
 </td>
 
 
@@ -146,10 +146,7 @@ WordNet, summarization
 <td rowspan="1" markdown="1">
 
 </td>
-<td rowspan="1" markdown="1" class="schednote">
-Due 11/11:
-Topic proposal
-</td>
+<td style="background-color: #ddd"></td>
 </tr>
 <tr>
 <td colspan="1">14</td>
@@ -159,7 +156,10 @@ Topic proposal
 <td rowspan="1" markdown="1">
 
 </td>
-<td style="background-color: #ddd"></td>
+<td rowspan="1" markdown="1" class="schednote">
+Due 11/14:
+[Topic proposal]({{ site.baseurl }}{% post_url 2022-11-09-proposal %})
+</td>
 </tr>
 <tr>
 <td colspan="1">21</td>
@@ -181,14 +181,16 @@ Topic proposal
 
 </td><td rowspan="1" markdown="1" class="schednote">
 Due 11/30:
-Methodology
+[Methodology]({{ site.baseurl }}{% post_url 2022-11-25-methodology %})
 </td>
 </tr>
 <tr>
 <td colspan="1">5</td>
 <td colspan="1">7</td>
 <td colspan="1">9</td>
-<td>Presentations</td>
+<td rowspan="1" markdown="1">
+[Presentations]({{ site.baseurl }}{% post_url 2022-11-25-methodology %})
+</td>
 <td rowspan="1" markdown="1">
 
 </td>
@@ -204,7 +206,7 @@ Methodology
 </td>
 <td rowspan="1" markdown="1" class="schednote">
 Due 12/12:
-Final project
+[Final project]({{ site.baseurl }}{% post_url 2022-11-25-project %})
 </td>
 </tr>
 </table>
@@ -229,9 +231,9 @@ Links to Colab notebooks (class meeting notes, generally):
 - [2022-10-17-federalist-import.ipynb](https://colab.research.google.com/drive/1k4BIE5b3Lf3QZgeELedKVsXw9SHY9pur?usp=sharing)
 - [2022-10-19-federalist-kmeans-0.ipynb](https://colab.research.google.com/drive/11fwiTmCYwXaKfWhUWaegGJdpVwdfcKkq?usp=sharing)
 - [2022-10-21-federalist-kmeans-1.ipynb](https://colab.research.google.com/drive/1GSTDLUtd_rM0JrFXTRo-Lb47WL25XDF4?usp=sharing)
-- [2022-10-26-sklearn-keras-0 - zip file]({{ site.baseurl }}/assets/ipynb/2022-10-26-wed.ipynb.zip)
-- [2022-10-28-sklearn-keras-1 - zip file]({{ site.baseurl }}/assets/ipynb/2022-10-28-fri.ipynb.zip)
-- [2022-10-31-childes-nltk - zip file]({{ site.baseurl }}/assets/ipynb/2022-10-31.ipynb.zip)
+- [2022-10-26-sklearn-keras-0]({{ site.baseurl }}/assets/ipynb/2022-10-26-wed.ipynb.zip) (zip file, written up on the cluster)
+- [2022-10-28-sklearn-keras-1]({{ site.baseurl }}/assets/ipynb/2022-10-28-fri.ipynb.zip) (zip file, written up on the cluster)
+- [2022-10-31-childes-nltk]({{ site.baseurl }}/assets/ipynb/2022-10-31.ipynb.zip) (zip file, written up on the cluster)
 - [2022-11-07-wordnet.ipynb](https://colab.research.google.com/drive/19DVqYIIWgjCzBE0hvnabn5XT0n8yNxt5?usp=sharing)
 - [2022-11-09-text-summarization.ipynb](https://colab.research.google.com/drive/1R-RJer7JL39fJGpsApd5E4sZDPQonyWY?usp=sharing)
 - [2022-11-16-named-entities.ipynb](https://colab.research.google.com/drive/1K5hX-z5T2g6PDeCB2OTTOLKGb-KWVqcc?usp=sharing)

@@ -38,12 +38,14 @@ Meetings via: <a href="https://bostonu.zoom.us/j/95838533505?pwd=Rm1WNitSdHIrZjZ
 Introduction to computational techniques to explore linguistic models and test empirical claims. Serves as an introduction to algorithms, and data structures, and tool libraries. Topics include tagging and classification, parsing models, meaning representation, corpus creation, information extraction.
 
 **Prerequisites:**
- - CAS LX 250 (Introduction to Linguistics)
- - CAS CS 112 (Introduction to Computer Science 2)
+
+- CAS LX 250 (Introduction to Linguistics)
+- CAS CS 112 (Introduction to Computer Science 2)
 
 **Antiprerequisites:**
- - CAS LX 394/GRS LX 694 (Introduction to Programming for Computational Linguistics).
-(Students who have taken the more basic version of the course are not eligible for this one.)
+
+- CAS LX 394/GRS LX 694 (Introduction to Programming for Computational Linguistics).
+  (Students who have taken the more basic version of the course are not eligible for this one.)
 
 **Course Synopsis:**
 The quantity of language data available for natural language analysis has greatly increased in recent years,
@@ -60,29 +62,30 @@ the class will consist of some basic programming exercises, some mini-projects (
 authorship, development of child English), and a more extensive final project proposing a problem to
 investigate, a method for studying it, and a written paper reporting the results and implications.
 
-## Instructional Format ##
+## Instructional Format
 
 The course meets MWF; the class meetings will be a mixture of introduction of the
 week's concepts and ungraded exercises and readings. Weekly homework will be assigned.
 
-## Course materials ##
+## Course materials
 
 The primary textbook for the course is
 [Steven Bird, Ewan Klein, and Edward Loper (2016). *Natural Language Processing with Python* (Python 3, NLTK 3 version)](http://nltk.org/book).
 Other readings or lecture notes may be assigned from time to time.
 
-## Course web site ##
+## Course web site
 
 The primary web site for the course is at
-<https://bucomplx.github.io/lx496f22/> -- this is
+[https://bucomplx.github.io/lx496f22/](https://bucomplx.github.io/lx496f22/) -- this is
 where the current schedule, handouts, readings, assignments, and announcements will be posted.
 
-## Grading and Discussion ##
+## Grading and Discussion
 
 We will use Teams for class discussion and questions, and Gradescope for homework submission and grading.
 You will get details on how to join the Team, and Gradescope should be linked from Blackboard.
 
-## Assignments and grading criteria ##
+## Assignments and grading criteria
+
 This course can be taken either at the undergraduate or graduate level.
 For students taking the course at the graduate level, the homework assignments will contain some extra components,
 the topic of the final project will be proposed by the student, and the resulting project will be larger.
@@ -108,8 +111,10 @@ the methodology (informally describing the plan of how it will be completed and 
 the presentation, and the final paper.
 The presentations will be part of a brief "mini-conference" at the end of the semester.
 Undergraduate presentations are limited to 10 minutes, graduate presentations to 15 minutes.
-The finished project will take the form a research paper,
-10 pages (undergraduate) to 20 pages (graduate) in length.
+~~The finished project will take the form a research paper,~~
+~~10 pages (undergraduate) to 20 pages (graduate) in length.~~
+**[Revision] The finished project will take the form of a write-up, with code and graphs and examples. The default assumption is that it will be in the form of a Jupyter Notebook file, with prose commentary included.  Other forms are possible.  There is no sensible way to dictate number of pages in this medium, but the content of explanation should be about what you'd expect of a 10 page paper (undergraduate) or 20 page paper (graduate). More information is provided in the specifications of the final project.**
+
 There is neither a midterm exam nor a final exam.
 
 <table>
@@ -143,8 +148,7 @@ There is neither a midterm exam nor a final exam.
 </tr>
 </table>
 
-
-## Resources ##
+## Resources
 
 If you have questions about course material or homework,
 take advantage of office hours (listed at the top of the syllabus).
@@ -155,19 +159,21 @@ ODS is located at 19 Deerfield Street on the second floor.
 Generally, doing the exercises, homework, participating in class, and asking about questions that might
 have arisen in the material will be a reliable path to succeeding in this course.
 
-## Community of learning: Class and University policies ##
+## Community of learning: Class and University policies
+
 Participants in the class are all responsible for ensuring a positive learning environment,
 respecting other participants, and avoiding disruptive activities.
 Attendance is expected at all class meetings, and repeated failure to attend class will
 (in addition to making the out of class work more difficult to accomplish)
 decrease the participation portion of the course grade.
 Absence for religious reasons is allowed as outlined in the BU policy:
-<https://www.bu.edu/academics/policies/absence-for-religious-reasons/> --
+[https://www.bu.edu/academics/policies/absence-for-religious-reasons/](https://www.bu.edu/academics/policies/absence-for-religious-reasons/) --
 if it is known in advance that you will be unable to attend one of the class meetings,
 the instructor should be notified so that alternative arrangements cans be made if needed.
 In general, homework is not accepted late unless this is arranged in advance of the due date.
 
-## Academic Conduct ##
+## Academic Conduct
+
 It is imperative that the CAS Academic Conduct Code is adhered to,
 along with any applicable graduate policies.
 More specifically, it is allowed (even encouraged) to work in study groups or to talk through problems,
@@ -181,10 +187,11 @@ The basic rule is that work you hand in as your own must be your own, not derive
 and where any work of others is involved, it is properly attributed.
 If there are any questions about the policy, we will be happy to answer them.
 
-* CAS: <https://www.bu.edu/academics/policies/academic-conduct-code/>
-* GRS: <http://www.bu.edu/cas/files/2017/02/GRS-Academic-Conduct-Code-Final.pdf>
+* CAS: [https://www.bu.edu/academics/policies/academic-conduct-code/](https://www.bu.edu/academics/policies/academic-conduct-code/)
+* GRS: [http://www.bu.edu/cas/files/2017/02/GRS-Academic-Conduct-Code-Final.pdf](http://www.bu.edu/cas/files/2017/02/GRS-Academic-Conduct-Code-Final.pdf)
 
-## Hub Learning Outcomes and course-specific objectives ##
+## Hub Learning Outcomes and course-specific objectives
+
 This course can be used to satisfy Quantitative Reasoning II, Digital Media Expression, and
 Toolkit/Research and Information Literacy units for the BU Hub.
 As a result of having taken this course, students will...
@@ -229,7 +236,7 @@ A recurring theme in the analysis of large corpora is the need to restrict atten
 comparable and relevant subsets, to recognize and avoid analyzing uninformative parts
 of the data that could still skew results.
 There are some clear predictions that theoretical analyses make,
-for example in the connetion beteen context and grammatical form,
+for example in the connection between context and grammatical form,
 that are not well suited to testing using any kind of automated corpus analysis
 presently within reach, due to a need for modeling fine-grained evolution of the developing discourse.
 
@@ -252,5 +259,4 @@ The final project occurs in a small number of stages to provide feedback as it i
 from concept to research question, to selection of method and corpus,
 and culminating in a written paper with a discussion of how the findings bear on the
 initial hypotheses.
-
 
