@@ -239,3 +239,5 @@ Links to Colab notebooks (class meeting notes, generally):
 - [2022-11-16-named-entities.ipynb](https://colab.research.google.com/drive/1K5hX-z5T2g6PDeCB2OTTOLKGb-KWVqcc?usp=sharing)
 - [2022-11-18-distilbert-sentiment-analysis.ipynb](https://colab.research.google.com/drive/1TgM2fnOdQ7RUnS0NN1QRDiMhIW27zk9b?usp=sharing)
 - [2022-11-21-bert-squad.ipynb](https://colab.research.google.com/drive/13MEqG3SI7YSqoiO_ZGZk8bf1Agosda0L?usp=sharing)
+- [2022-11-30-r-mastodon.ipynb](https://colab.research.google.com/drive/1MYJdOlKzEWmAdMvZ7oDAkkMGhO0bg6Um?usp=sharing)
+  
